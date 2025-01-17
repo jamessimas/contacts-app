@@ -11,6 +11,7 @@ $ . .venv/bin/activate
 
 # install flask
 $ pip install flask
+
+# run development server
+$ flask --app main run --reload
 ```
-
-
